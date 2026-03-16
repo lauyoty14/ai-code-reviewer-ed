@@ -39,4 +39,4 @@ A workflow at `.github/workflows/test-analyzer.yml` runs on every pull request. 
 2. Installs Python and dependencies.
 3. Runs the analyzer against the current repository URL.
 
-This validates the pipeline in CI and keeps the MVP behavior consistent with local runs.
+This validates the pipeline in CI and keeps the MVP behavior consistent with local runs.# tp-estudiante-demo
